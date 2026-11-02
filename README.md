@@ -16,4 +16,4 @@ An optimal route planning agent built using Gymnasium's `Taxi-v3` environment an
 Run the following commands to install required dependencies:.
 ```bash
 pip install gymnasium imageio
-pip install gymnasium[toy-text]
+pip install gymnasium[toy-text].
