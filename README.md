@@ -13,7 +13,7 @@ An optimal route planning agent built using Gymnasium's `Taxi-v3` environment an
 * **Rewards**: `-1` per step penalty, `+20` for successful passenger delivery, `-10` for illegal pickup/drop-off.
 
 ## Installation & Requirements
-Run the following commands to install required dependencies:
+Run the following commands to install required dependencies:.
 ```bash
 pip install gymnasium imageio
 pip install gymnasium[toy-text]
